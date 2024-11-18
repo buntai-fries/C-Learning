@@ -9,3 +9,7 @@
 4) Type def is used to create a name (like nickname) for var declaration to avoid typos incase of long and inconvienent declaration. For more refer to : typeDef_typeAlias.cpp !
 
 5) To convert variable of one data type into another, we use two method explicit and implicit, refer to : typeConversion.cpp !
+
+6) To take input from user, we can use cin-operator that use >> unlike cout that uses <<. For more refer to userInput.cpp !
+
+7) Using math operation in cruicial for any practical purpose. To learn more refer to mathOperator.cpp ! [These are few e.g.]
