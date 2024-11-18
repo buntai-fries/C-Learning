@@ -19,4 +19,6 @@ int main()
     // It might not work due to incorrect position but if it were to initialize right away after main(), then it'd probably work.
     cout << x; // It prints x within first_'name_space' and "::" is scope resolution operator
     cout << second::x; // It prints x within second_'name_space' and "::" is scope resolution operator
+
+    return 0;
 }
