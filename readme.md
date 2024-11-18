@@ -1,4 +1,4 @@
-# This is my C++ Learning Journey where I post thing I learnt in github!
+# This is my C++ Learning Journey where I post my summary of learning in github!
 
 1) At first I learn the basic C++ structure which is basic but foundational like header( #include<iostream> ), int main(). About statement I leanrnt : to kind of remember, we can say any line that ends with semi-colon is statement (for beginner like me, it's a thumb rule).
 
