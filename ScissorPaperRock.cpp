@@ -23,7 +23,6 @@ char getComputerMove()
 
 int main()
 {
-    using std::cin;
     using std::cout;
 
     // Computer choice    
@@ -34,7 +33,7 @@ int main()
 
     cout << "What do you choose? \n" << ": ";
 
-    cin >> your_choice;
+    std::cin >> your_choice; // takes input of your choice
 
     // Condition checker to declare the result:
     if (computer_choice == your_choice)
