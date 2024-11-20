@@ -12,4 +12,6 @@
 
 6) To take input from user, we can use cin-operator that use >> unlike cout that uses <<. For more refer to userInput.cpp !
 
-7) Using math operation in cruicial for any practical purpose. To learn more refer to mathOperator.cpp ! [These are few e.g.]
+7) Using math operation is cruicial for any practical purpose. To learn more refer to mathOperator.cpp ! [These are few e.g.]
+
+8) So, far I have covered lot of topics and I felt bore to write everything in code and repeated line in this so I wrote the needed explanation in the code.
