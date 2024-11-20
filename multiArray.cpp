@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+  // This is a simple text-base war-ship game :>
   // We put "1" to indicate there is a ship.
   bool ships[4][4] = {
     { 0, 1, 1, 0 },
